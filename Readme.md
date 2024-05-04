@@ -140,6 +140,8 @@ $ npm install
 $ npm test
 ```
 
+# Vishal Singh
+
 ## People
 
 The original author of Express is [TJ Holowaychuk](https://github.com/tj)
